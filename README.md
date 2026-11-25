@@ -497,6 +497,12 @@ npx expo start
 
 Scan the QR code using Expo Go.
 
+## Compatibility
+
+- Built with Expo SDK 54.
+- Requires an Expo Go version compatible with SDK 54.
+- Some features require device permissions such as Camera and Location.
+
 ---
 
 # 👥 Team
